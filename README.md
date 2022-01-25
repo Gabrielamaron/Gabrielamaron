@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, inovation and tecnology
 - 🌱 I’m currently learning front end tecnologies
 - 💞️ I’m looking to collaborate on new projects 
-- 📫 How to reach me ...
+- 📫 How to reach me @gabrielamaron on Instagram
 
 <!---
 Gabrielamaron/Gabrielamaron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
