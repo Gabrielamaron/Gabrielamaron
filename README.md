@@ -31,9 +31,11 @@
   
 </div>
     
+
+    
 </body>
 
-
+ ![Snake animation](https://github.com/Gabrielamaron/Gabrielamaron/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 Gabrielamaron/Gabrielamaron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
