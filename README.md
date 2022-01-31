@@ -1,7 +1,7 @@
 <header> 
   <h1> <strong> 😃 Olá, meu nome é Gabriel Amaro! </strong> </h1>
-  <p> Iniciante em programação </p>
-  <p> Desenvolvo projetos no Front-end com HTML, CSS e Javascript </p>
+  <p> <strong> Iniciante em programação </strong> </p>
+  <p> <strong> Desenvolvo projetos no Front-end com HTML, CSS e Javascript </strong> </p>
 </header>
 <body>
   <!--GitHub stats-->
