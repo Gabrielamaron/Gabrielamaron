@@ -1,7 +1,7 @@
 <header> 
   <h1> <strong> 😃 Olá, meu nome é Gabriel Amaro! </strong> </h1>
-  <p> <strong> Iniciante em programação </strong> </p>
-  <p> <strong> Desenvolvo projetos no Front-end com HTML, CSS e Javascript </strong> </p>
+  <p> <strong> Desenvolvedor Front-End Junior </strong> </p>
+  <p> <strong> Desenvolvo projetos com HTML, CSS e Javascript </strong> </p>
   <p> <strong> Estudo Front-end na Alura </strong> </p>
  
   <br>
