@@ -10,10 +10,8 @@
 </header>
 <body>
   
-   </div>
-     <!-- Status -->
-     <h2> <strong> Status </strong> </h2>  
-   div style="display: inline_block"><br>
+   <!-- Status -->
+   <h2> <strong> Status </strong> </h2>  
   
   <!--GitHub stats-->
   <div align="center">
